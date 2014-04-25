@@ -71,7 +71,6 @@ DEPENDENCIES
   mail
   pg
   prawn
-  rack
   rack-test
   rake
   rspec
