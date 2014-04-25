@@ -11,3 +11,7 @@ gem 'colorize'
 gem 'prawn'
 gem 'titleize'
 gem 'mail'
+
+group :test do
+  gem "rspec"
+end
