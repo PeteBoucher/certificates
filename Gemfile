@@ -13,5 +13,6 @@ gem 'titleize'
 gem 'mail'
 
 group :test do
-  gem "rspec"
+  gem 'rspec'
+  gem 'rack-test'
 end
